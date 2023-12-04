@@ -1,9 +1,0 @@
-{
-  "extends": [
-    "@gravity-ui/eslint-config",
-    "@gravity-ui/eslint-config/prettier"
-  ],
-  "parserOptions": {
-    "project": ["./template/tsconfig.json"]
-  }
-}
