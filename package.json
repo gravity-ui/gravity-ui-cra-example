@@ -27,7 +27,8 @@
   ],
   "scripts": {
     "prepare": "husky install",
-    "check-template": "rm -rf test-app && npx create-react-app test-app --template file:. && cd test-app && npm run lint && cd ../ && rm -rf test-app"
+    "check-template": "rm -rf test-app && npx create-react-app test-app --template file:. && cd test-app && npm run lint && cd ../ && rm -rf test-app",
+    "test": "exit 0"
   },
   "devDependencies": {
     "husky": "^8.0.3"
