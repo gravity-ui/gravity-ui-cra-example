@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/gravity-ui/cra-template-gravity-ui/compare/v1.0.0...v1.1.0) (2023-12-05)
+
+
+### Features
+
+* rename package ([#5](https://github.com/gravity-ui/cra-template-gravity-ui/issues/5)) ([49d4ecb](https://github.com/gravity-ui/cra-template-gravity-ui/commit/49d4ecb89705a50de66d76988e8df26acdec8942))
+
 ## 1.0.0 (2023-12-05)
 
 
