@@ -14,13 +14,13 @@ CRA template with: typescript, sass and Gravity UI.
 To use this template for your app you can run:
 
 ```sh
-npx create-react-app my-app --template gravity-ui
+npx create-react-app my-app --template gravity-ui-pure
 ```
 
 or
 
 ```sh
-yarn create react-app my-app --template gravity-ui
+yarn create react-app my-app --template gravity-ui-pure
 ```
 
 The `--template` parameter points to this template, note that `cra-template-` prefix is omitted.
