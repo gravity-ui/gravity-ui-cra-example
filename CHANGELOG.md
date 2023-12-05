@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.1](https://github.com/gravity-ui/cra-template-gravity-ui/compare/v1.1.0...v1.1.1) (2023-12-05)
+
+
+### Bug Fixes
+
+* package.lock ([#8](https://github.com/gravity-ui/cra-template-gravity-ui/issues/8)) ([65579c0](https://github.com/gravity-ui/cra-template-gravity-ui/commit/65579c047d4c27e912e5fab1147aaade0adf7fd1))
+* repo name ([#7](https://github.com/gravity-ui/cra-template-gravity-ui/issues/7)) ([e91882d](https://github.com/gravity-ui/cra-template-gravity-ui/commit/e91882dc7318bb7314a06c175b2f8fc9f6140ffd))
+
 ## [1.1.0](https://github.com/gravity-ui/cra-template-gravity-ui/compare/v1.0.0...v1.1.0) (2023-12-05)
 
 
