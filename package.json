@@ -16,7 +16,7 @@
     "url": "https://github.com/gravity-ui/cra-template-gravity-ui"
   },
   "engines": {
-    "node": ">=18"
+    "node": ">=20"
   },
   "bugs": {
     "url": "https://github.com/gravity-ui/cra-template-gravity-ui/issues"
