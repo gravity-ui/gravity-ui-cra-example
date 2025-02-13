@@ -2,7 +2,7 @@
   "package": {
     "dependencies": {
       "@gravity-ui/icons": "^2.6.0",
-      "@gravity-ui/uikit": "^5.17.0",
+      "@gravity-ui/uikit": "^7.2.0",
       "bem-cn-lite": "^4.1.0"
     },
     "devDependencies": {
@@ -21,7 +21,7 @@
       "sass": "^1.68.0",
       "sass-loader": "^13.3.2",
       "stylelint": "^15.10.3",
-      "typescript": "^5.3.2",
+      "typescript": "^5.7.3",
       "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
     },
     "scripts": {
@@ -38,10 +38,10 @@
       "*.md": ["prettier --write"]
     },
     "engines": {
-      "node": ">=18"
+      "node": ">=20"
     },
     "overrides": {
-      "typescript": "^5.3.2"
+      "typescript": "^5.7.3"
     }
   }
 }
