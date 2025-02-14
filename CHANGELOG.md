@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2](https://github.com/gravity-ui/gravity-ui-cra-example/compare/v1.1.1...v1.1.2) (2025-02-13)
+
+
+### Bug Fixes
+
+* github actions ([#11](https://github.com/gravity-ui/gravity-ui-cra-example/issues/11)) ([169ad01](https://github.com/gravity-ui/gravity-ui-cra-example/commit/169ad012a3847ff99f9213af10a0140f81bcef93))
+
 ## [1.1.1](https://github.com/gravity-ui/cra-template-gravity-ui/compare/v1.1.0...v1.1.1) (2023-12-05)
 
 
